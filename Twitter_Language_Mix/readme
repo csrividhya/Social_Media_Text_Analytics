@@ -1,0 +1,9 @@
+This folder is the submission of Srividhya Chandrasekharan and it contains the following files:-
+
+1) twitter_stream_10k_tweets.txt - Text file that containd 10,000 tweets that were streamed from Twitter on  Tue Sep 05 02:37:02 +0000 2017
+
+2) tweet_infor_extraction.py - The main python file that analyzes the tweets recorded and spits some stats on language distribution questions.
+
+3) plotting.py - Python code that generates 2 data visualizations using Matplotlib. Dictionaries extracted using tweet_infor_extraction.py were used for plotting.
+
+Using matplotlib, two plots were drawn to show the countries and the number of tweets from each country as well as the language distribution among the extracted tweets. Further, there's an image titled STATS.png that contains an overall analysis on the tweets.
